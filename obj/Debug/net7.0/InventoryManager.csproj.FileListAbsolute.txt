@@ -1,0 +1,14 @@
+C:\Users\willi\source\repos\InventoryManager\InventoryManager\bin\Debug\net7.0\InventoryManager.exe
+C:\Users\willi\source\repos\InventoryManager\InventoryManager\bin\Debug\net7.0\InventoryManager.deps.json
+C:\Users\willi\source\repos\InventoryManager\InventoryManager\bin\Debug\net7.0\InventoryManager.runtimeconfig.json
+C:\Users\willi\source\repos\InventoryManager\InventoryManager\bin\Debug\net7.0\InventoryManager.dll
+C:\Users\willi\source\repos\InventoryManager\InventoryManager\bin\Debug\net7.0\InventoryManager.pdb
+C:\Users\willi\source\repos\InventoryManager\InventoryManager\obj\Debug\net7.0\InventoryManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\source\repos\InventoryManager\InventoryManager\obj\Debug\net7.0\InventoryManager.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\InventoryManager\InventoryManager\obj\Debug\net7.0\InventoryManager.AssemblyInfo.cs
+C:\Users\willi\source\repos\InventoryManager\InventoryManager\obj\Debug\net7.0\InventoryManager.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\InventoryManager\InventoryManager\obj\Debug\net7.0\InventoryManager.dll
+C:\Users\willi\source\repos\InventoryManager\InventoryManager\obj\Debug\net7.0\refint\InventoryManager.dll
+C:\Users\willi\source\repos\InventoryManager\InventoryManager\obj\Debug\net7.0\InventoryManager.pdb
+C:\Users\willi\source\repos\InventoryManager\InventoryManager\obj\Debug\net7.0\InventoryManager.genruntimeconfig.cache
+C:\Users\willi\source\repos\InventoryManager\InventoryManager\obj\Debug\net7.0\ref\InventoryManager.dll
